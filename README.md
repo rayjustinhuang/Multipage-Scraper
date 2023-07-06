@@ -1,0 +1,2 @@
+# Multipage Scraper
+A script I made to scrape data from a specific search for the keyword "Construction" on the OSHA Establishment Search page and save it in a CSV file. I did this as a favor for a friend.
